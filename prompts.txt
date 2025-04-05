@@ -1,0 +1,18 @@
+Prompt 1 : 
+
+  As a practicing Data Engineer who wants to try out some python , panda frames and other relevant tools to learn/demonstrate my skills, I want you to generate 2 sample data sets , DataSet1  and DataSet2 for the Wire payments between US based Small Business owners and Banks in a given month with debits and credits. Here is the description of what I want for that DataSet1 and DataSet2 
+  
+  DataSet1 needs to be 50 data elements at the minimum and 50 data rows at the minimum , with format as CSV
+  DataSet1 needs to be nested 20  data elements at the minimum and 20 data rows at the minimum , with format as JSON 
+  
+  Assume I am doing some visualization project where I would like to show Bubble Charts, Hierarchical Map and prepare the datasets DataSet1 and DataSet2 relevant for this. 
+
+Prompt 2 : 
+
+  As a practicing Data Engineer who wants to try out some python , panda frames and other relevant tools to learn/demonstrate my skills, I want you to generate 2 sample data sets , DataSet-A  and DataSet-B for the Supply Chain Business for House Construction Sector of Single and Multi Family Homes  with Inventories, Raw Materials and Billing. Here is the description of what I want for that DataSet-A and DataSet-B 
+  
+  DataSet-A needs to be a time series data with 100 rows at the minimum , with format as JSON 
+  DataSet-B needs to be visualization friendly data with 30  data elements at the minimum and 50 data rows at the minimum , with format as CSV 
+  
+  Assume I am doing some visualization project where I would like to show Bubble Charts, Hierarchical Map and prepare the datasets DataSet1 and DataSet2 relevant for this. 
+
