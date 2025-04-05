@@ -1,0 +1,702 @@
+[
+    {
+        "TransactionID": "6fd926e0-4dee-4334-b580-157da50331a3",
+        "Date": "2025-04-04",
+        "Business": {
+            "Name": "Lane-Simpson",
+            "TIN": "59-0609358",
+            "Category": "extend enterprise action-items",
+            "Segment": "SMB",
+            "Region": "Delaware"
+        },
+        "BankDetails": {
+            "BankName": "Citibank",
+            "RoutingNumber": "127260257",
+            "AccountNumber": "IKUC03732188181122",
+            "Branch": "Katherineview"
+        },
+        "Transaction": {
+            "Amount": 48397.12,
+            "Currency": "USD",
+            "Type": "Wire Debit",
+            "Status": "Pending",
+            "Fee": 24.32,
+            "Notes": "Writer along skill.",
+            "AuditTrail": {
+                "CreatedBy": "Andrew Powell",
+                "Time": "2001-04-21T07:35:15",
+                "Channel": "App"
+            },
+            "Risk": {
+                "AMLScore": 0.59,
+                "KYCCheck": "Incomplete",
+                "FraudCheck": "Clear"
+            }
+        }
+    },
+    {
+        "TransactionID": "bbae2f0e-32ac-4c85-98c8-a9b0ec7fb8ea",
+        "Date": "2025-04-03",
+        "Business": {
+            "Name": "Brown Inc",
+            "TIN": "92-1778253",
+            "Category": "extend front-end web services",
+            "Segment": "Enterprise",
+            "Region": "California"
+        },
+        "BankDetails": {
+            "BankName": "Citibank",
+            "RoutingNumber": "026598091",
+            "AccountNumber": "AGER35173579154203",
+            "Branch": "Jessicaborough"
+        },
+        "Transaction": {
+            "Amount": 54387.91,
+            "Currency": "USD",
+            "Type": "Wire Debit",
+            "Status": "Failed",
+            "Fee": 32.55,
+            "Notes": "What garden nearly morning work decision view.",
+            "AuditTrail": {
+                "CreatedBy": "Kristen Murphy",
+                "Time": "1992-07-06T20:35:40",
+                "Channel": "Online"
+            },
+            "Risk": {
+                "AMLScore": 0.69,
+                "KYCCheck": "Complete",
+                "FraudCheck": "Clear"
+            }
+        }
+    },
+    {
+        "TransactionID": "94b45ed9-8a13-49a8-aa7d-9e2b8d56b469",
+        "Date": "2025-04-03",
+        "Business": {
+            "Name": "Jones, Hanna and Schultz",
+            "TIN": "12-6090547",
+            "Category": "redefine cross-platform platforms",
+            "Segment": "Startup",
+            "Region": "Delaware"
+        },
+        "BankDetails": {
+            "BankName": "PNC Bank",
+            "RoutingNumber": "041373291",
+            "AccountNumber": "AUMY97845520031424",
+            "Branch": "South Aliciamouth"
+        },
+        "Transaction": {
+            "Amount": 48626.52,
+            "Currency": "USD",
+            "Type": "Wire Credit",
+            "Status": "Completed",
+            "Fee": 79.31,
+            "Notes": "Write return meeting green high democratic drive.",
+            "AuditTrail": {
+                "CreatedBy": "Corey Stewart",
+                "Time": "2020-10-11T08:55:57",
+                "Channel": "Online"
+            },
+            "Risk": {
+                "AMLScore": 0.52,
+                "KYCCheck": "Incomplete",
+                "FraudCheck": "Clear"
+            }
+        }
+    },
+    {
+        "TransactionID": "341c72e4-7ba4-4f56-87ec-190f49c31a44",
+        "Date": "2025-04-02",
+        "Business": {
+            "Name": "Norris-Boyd",
+            "TIN": "27-9288453",
+            "Category": "drive real-time interfaces",
+            "Segment": "Enterprise",
+            "Region": "Delaware"
+        },
+        "BankDetails": {
+            "BankName": "Chase",
+            "RoutingNumber": "105870164",
+            "AccountNumber": "MLNJ03596857480002",
+            "Branch": "West Allisonside"
+        },
+        "Transaction": {
+            "Amount": 23396.8,
+            "Currency": "USD",
+            "Type": "Wire Credit",
+            "Status": "Failed",
+            "Fee": 15.76,
+            "Notes": "Interesting decide oil address major table your.",
+            "AuditTrail": {
+                "CreatedBy": "Elizabeth Lucas",
+                "Time": "1980-04-16T07:31:18",
+                "Channel": "Online"
+            },
+            "Risk": {
+                "AMLScore": 0.16,
+                "KYCCheck": "Complete",
+                "FraudCheck": "Suspected"
+            }
+        }
+    },
+    {
+        "TransactionID": "04a745f1-edc9-4ef2-a668-3cdbd7698101",
+        "Date": "2025-04-03",
+        "Business": {
+            "Name": "Castillo-Dominguez",
+            "TIN": "92-9015472",
+            "Category": "generate synergistic communities",
+            "Segment": "SMB",
+            "Region": "North Carolina"
+        },
+        "BankDetails": {
+            "BankName": "Citibank",
+            "RoutingNumber": "063045507",
+            "AccountNumber": "VGTP95052324037456",
+            "Branch": "West John"
+        },
+        "Transaction": {
+            "Amount": 21873.52,
+            "Currency": "USD",
+            "Type": "Wire Debit",
+            "Status": "Pending",
+            "Fee": 87.97,
+            "Notes": "Lead event about far ever my perform.",
+            "AuditTrail": {
+                "CreatedBy": "Kristin Fisher",
+                "Time": "2022-02-21T02:25:37",
+                "Channel": "App"
+            },
+            "Risk": {
+                "AMLScore": 0.44,
+                "KYCCheck": "Incomplete",
+                "FraudCheck": "Suspected"
+            }
+        }
+    },
+    {
+        "TransactionID": "ee190139-8cd2-4b81-ba3d-4b8c7770637f",
+        "Date": "2025-04-04",
+        "Business": {
+            "Name": "Savage Ltd",
+            "TIN": "27-1355444",
+            "Category": "optimize plug-and-play vortals",
+            "Segment": "Startup",
+            "Region": "Arkansas"
+        },
+        "BankDetails": {
+            "BankName": "Citibank",
+            "RoutingNumber": "079507563",
+            "AccountNumber": "DCFN75375516268961",
+            "Branch": "West Peggyport"
+        },
+        "Transaction": {
+            "Amount": 71406.26,
+            "Currency": "USD",
+            "Type": "Wire Debit",
+            "Status": "Failed",
+            "Fee": 63.99,
+            "Notes": "Former bag sure water baby never through.",
+            "AuditTrail": {
+                "CreatedBy": "Leonard Taylor",
+                "Time": "2003-03-29T05:06:33",
+                "Channel": "Manual"
+            },
+            "Risk": {
+                "AMLScore": 0.31,
+                "KYCCheck": "Complete",
+                "FraudCheck": "Suspected"
+            }
+        }
+    },
+    {
+        "TransactionID": "ed0fce25-aecc-4430-8114-b5fff6645599",
+        "Date": "2025-04-01",
+        "Business": {
+            "Name": "Kemp-Brown",
+            "TIN": "72-9327394",
+            "Category": "enable granular technologies",
+            "Segment": "SMB",
+            "Region": "Tennessee"
+        },
+        "BankDetails": {
+            "BankName": "Bank of America",
+            "RoutingNumber": "061117550",
+            "AccountNumber": "GXGR08299490567693",
+            "Branch": "Amyview"
+        },
+        "Transaction": {
+            "Amount": 62554.45,
+            "Currency": "USD",
+            "Type": "Wire Debit",
+            "Status": "Pending",
+            "Fee": 43.36,
+            "Notes": "Build adult political serve.",
+            "AuditTrail": {
+                "CreatedBy": "Kelly Levine",
+                "Time": "1996-12-03T16:03:18",
+                "Channel": "Online"
+            },
+            "Risk": {
+                "AMLScore": 0.18,
+                "KYCCheck": "Incomplete",
+                "FraudCheck": "Suspected"
+            }
+        }
+    },
+    {
+        "TransactionID": "bc4d3995-5a2d-475a-bfe8-fca6417b3a80",
+        "Date": "2025-04-01",
+        "Business": {
+            "Name": "Wong-Williams",
+            "TIN": "55-8902754",
+            "Category": "incubate synergistic systems",
+            "Segment": "SMB",
+            "Region": "Texas"
+        },
+        "BankDetails": {
+            "BankName": "Wells Fargo",
+            "RoutingNumber": "049896327",
+            "AccountNumber": "MURH98233093329621",
+            "Branch": "West Joseph"
+        },
+        "Transaction": {
+            "Amount": 21374.95,
+            "Currency": "USD",
+            "Type": "Wire Debit",
+            "Status": "Pending",
+            "Fee": 29.81,
+            "Notes": "Foreign reality perform high without.",
+            "AuditTrail": {
+                "CreatedBy": "Jason Smith",
+                "Time": "1975-07-02T13:57:24",
+                "Channel": "Manual"
+            },
+            "Risk": {
+                "AMLScore": 0.31,
+                "KYCCheck": "Complete",
+                "FraudCheck": "Suspected"
+            }
+        }
+    },
+    {
+        "TransactionID": "25080f90-a72a-4d04-bd22-4dbaf05a32dc",
+        "Date": "2025-04-03",
+        "Business": {
+            "Name": "Gates, Ross and Perez",
+            "TIN": "41-6240448",
+            "Category": "grow user-centric solutions",
+            "Segment": "Enterprise",
+            "Region": "Oklahoma"
+        },
+        "BankDetails": {
+            "BankName": "Bank of America",
+            "RoutingNumber": "087167937",
+            "AccountNumber": "VMAR04558751716450",
+            "Branch": "Deborahchester"
+        },
+        "Transaction": {
+            "Amount": 51269.36,
+            "Currency": "USD",
+            "Type": "Wire Credit",
+            "Status": "Failed",
+            "Fee": 39.99,
+            "Notes": "Store help describe laugh occur city alone.",
+            "AuditTrail": {
+                "CreatedBy": "Colin Mahoney",
+                "Time": "2021-07-16T18:51:54",
+                "Channel": "Online"
+            },
+            "Risk": {
+                "AMLScore": 0.43,
+                "KYCCheck": "Incomplete",
+                "FraudCheck": "Clear"
+            }
+        }
+    },
+    {
+        "TransactionID": "4a145024-ae40-45bc-b4ef-8773e8bc3662",
+        "Date": "2025-04-04",
+        "Business": {
+            "Name": "Nguyen Ltd",
+            "TIN": "81-1973006",
+            "Category": "maximize innovative portals",
+            "Segment": "Enterprise",
+            "Region": "South Dakota"
+        },
+        "BankDetails": {
+            "BankName": "Wells Fargo",
+            "RoutingNumber": "058689004",
+            "AccountNumber": "RSFX61439014176434",
+            "Branch": "Murphychester"
+        },
+        "Transaction": {
+            "Amount": 61511.18,
+            "Currency": "USD",
+            "Type": "Wire Debit",
+            "Status": "Pending",
+            "Fee": 57.18,
+            "Notes": "Their crime foreign shoulder town.",
+            "AuditTrail": {
+                "CreatedBy": "Gregory Stevens",
+                "Time": "1973-04-29T05:41:50",
+                "Channel": "Manual"
+            },
+            "Risk": {
+                "AMLScore": 0.15,
+                "KYCCheck": "Complete",
+                "FraudCheck": "Clear"
+            }
+        }
+    },
+    {
+        "TransactionID": "4cdc39cc-934e-4270-9b9b-f637d82a2bcb",
+        "Date": "2025-04-02",
+        "Business": {
+            "Name": "Valdez-Baker",
+            "TIN": "81-2320106",
+            "Category": "optimize frictionless schemas",
+            "Segment": "SMB",
+            "Region": "Arizona"
+        },
+        "BankDetails": {
+            "BankName": "Citibank",
+            "RoutingNumber": "069774474",
+            "AccountNumber": "ODZU56854424392936",
+            "Branch": "Port Alexis"
+        },
+        "Transaction": {
+            "Amount": 24076.1,
+            "Currency": "USD",
+            "Type": "Wire Debit",
+            "Status": "Completed",
+            "Fee": 18.65,
+            "Notes": "Pick drug common president energy.",
+            "AuditTrail": {
+                "CreatedBy": "Cindy Mahoney",
+                "Time": "2009-11-14T22:41:41",
+                "Channel": "App"
+            },
+            "Risk": {
+                "AMLScore": 0.48,
+                "KYCCheck": "Incomplete",
+                "FraudCheck": "Clear"
+            }
+        }
+    },
+    {
+        "TransactionID": "28369ed1-3bdb-41d7-a09a-230eb36d4d7a",
+        "Date": "2025-04-01",
+        "Business": {
+            "Name": "Stewart-Hamilton",
+            "TIN": "39-4097478",
+            "Category": "deploy value-added bandwidth",
+            "Segment": "Startup",
+            "Region": "Louisiana"
+        },
+        "BankDetails": {
+            "BankName": "PNC Bank",
+            "RoutingNumber": "100503290",
+            "AccountNumber": "OUHP97502386717292",
+            "Branch": "Lake Shane"
+        },
+        "Transaction": {
+            "Amount": 58223.75,
+            "Currency": "USD",
+            "Type": "Wire Debit",
+            "Status": "Pending",
+            "Fee": 6.09,
+            "Notes": "Couple exist newspaper former.",
+            "AuditTrail": {
+                "CreatedBy": "Rebekah Roberts",
+                "Time": "2020-09-30T16:03:36",
+                "Channel": "Online"
+            },
+            "Risk": {
+                "AMLScore": 0.78,
+                "KYCCheck": "Complete",
+                "FraudCheck": "Suspected"
+            }
+        }
+    },
+    {
+        "TransactionID": "4bfdbee8-65a3-463d-86ba-1122af07fc85",
+        "Date": "2025-04-03",
+        "Business": {
+            "Name": "Hart Ltd",
+            "TIN": "57-5359218",
+            "Category": "syndicate plug-and-play vortals",
+            "Segment": "SMB",
+            "Region": "Michigan"
+        },
+        "BankDetails": {
+            "BankName": "Citibank",
+            "RoutingNumber": "052551251",
+            "AccountNumber": "EMGQ21579224263816",
+            "Branch": "Jennashire"
+        },
+        "Transaction": {
+            "Amount": 40471.4,
+            "Currency": "USD",
+            "Type": "Wire Debit",
+            "Status": "Completed",
+            "Fee": 57.08,
+            "Notes": "Police military simple song month floor all.",
+            "AuditTrail": {
+                "CreatedBy": "Daniel Jennings",
+                "Time": "1981-07-11T18:22:20",
+                "Channel": "Online"
+            },
+            "Risk": {
+                "AMLScore": 0.26,
+                "KYCCheck": "Complete",
+                "FraudCheck": "Suspected"
+            }
+        }
+    },
+    {
+        "TransactionID": "b0ef9bff-f8ab-40be-98c8-71af55ec1564",
+        "Date": "2025-04-03",
+        "Business": {
+            "Name": "Young-Contreras",
+            "TIN": "94-1738331",
+            "Category": "benchmark back-end networks",
+            "Segment": "SMB",
+            "Region": "Michigan"
+        },
+        "BankDetails": {
+            "BankName": "Bank of America",
+            "RoutingNumber": "017665768",
+            "AccountNumber": "GQTS94277128380324",
+            "Branch": "New James"
+        },
+        "Transaction": {
+            "Amount": 49532.07,
+            "Currency": "USD",
+            "Type": "Wire Debit",
+            "Status": "Completed",
+            "Fee": 90.26,
+            "Notes": "I different office any.",
+            "AuditTrail": {
+                "CreatedBy": "Penny Thomas",
+                "Time": "1990-09-04T23:19:35",
+                "Channel": "App"
+            },
+            "Risk": {
+                "AMLScore": 0.38,
+                "KYCCheck": "Complete",
+                "FraudCheck": "Suspected"
+            }
+        }
+    },
+    {
+        "TransactionID": "44f26390-fa1e-4dbd-8168-25d4b14ee38b",
+        "Date": "2025-04-04",
+        "Business": {
+            "Name": "King and Sons",
+            "TIN": "74-5502401",
+            "Category": "visualize turn-key niches",
+            "Segment": "SMB",
+            "Region": "Ohio"
+        },
+        "BankDetails": {
+            "BankName": "Wells Fargo",
+            "RoutingNumber": "030087462",
+            "AccountNumber": "WBNW30074960991338",
+            "Branch": "East Lindaview"
+        },
+        "Transaction": {
+            "Amount": 42260.46,
+            "Currency": "USD",
+            "Type": "Wire Debit",
+            "Status": "Completed",
+            "Fee": 8.35,
+            "Notes": "Apply yeah never western his where bring.",
+            "AuditTrail": {
+                "CreatedBy": "Brenda Yu",
+                "Time": "2021-11-04T14:22:44",
+                "Channel": "App"
+            },
+            "Risk": {
+                "AMLScore": 0.15,
+                "KYCCheck": "Incomplete",
+                "FraudCheck": "Suspected"
+            }
+        }
+    },
+    {
+        "TransactionID": "19aa5c6b-2890-4f58-bb85-267f3ba13327",
+        "Date": "2025-04-03",
+        "Business": {
+            "Name": "Little Inc",
+            "TIN": "83-3375026",
+            "Category": "deliver efficient ROI",
+            "Segment": "Enterprise",
+            "Region": "South Dakota"
+        },
+        "BankDetails": {
+            "BankName": "Bank of America",
+            "RoutingNumber": "032838130",
+            "AccountNumber": "CCZD63146406784711",
+            "Branch": "Robinsonland"
+        },
+        "Transaction": {
+            "Amount": 73966.31,
+            "Currency": "USD",
+            "Type": "Wire Credit",
+            "Status": "Completed",
+            "Fee": 59.22,
+            "Notes": "Plan key simply picture.",
+            "AuditTrail": {
+                "CreatedBy": "Lisa Adams",
+                "Time": "2003-05-14T04:51:13",
+                "Channel": "Manual"
+            },
+            "Risk": {
+                "AMLScore": 0.2,
+                "KYCCheck": "Complete",
+                "FraudCheck": "Clear"
+            }
+        }
+    },
+    {
+        "TransactionID": "157125c4-7406-4c3c-9db1-620281026e69",
+        "Date": "2025-04-04",
+        "Business": {
+            "Name": "Cook-Wright",
+            "TIN": "22-3107052",
+            "Category": "mesh innovative schemas",
+            "Segment": "Startup",
+            "Region": "Wyoming"
+        },
+        "BankDetails": {
+            "BankName": "Wells Fargo",
+            "RoutingNumber": "111391174",
+            "AccountNumber": "HJJP44355540782245",
+            "Branch": "Grayton"
+        },
+        "Transaction": {
+            "Amount": 5120.44,
+            "Currency": "USD",
+            "Type": "Wire Credit",
+            "Status": "Pending",
+            "Fee": 49.38,
+            "Notes": "Rock education instead security five.",
+            "AuditTrail": {
+                "CreatedBy": "Tammy Anthony",
+                "Time": "1976-04-05T17:03:31",
+                "Channel": "Online"
+            },
+            "Risk": {
+                "AMLScore": 0.75,
+                "KYCCheck": "Complete",
+                "FraudCheck": "Clear"
+            }
+        }
+    },
+    {
+        "TransactionID": "09103cd4-1fc7-4472-9e93-ba781bb2edde",
+        "Date": "2025-04-02",
+        "Business": {
+            "Name": "Watkins-Smith",
+            "TIN": "62-1781599",
+            "Category": "incubate granular supply-chains",
+            "Segment": "SMB",
+            "Region": "North Dakota"
+        },
+        "BankDetails": {
+            "BankName": "Citibank",
+            "RoutingNumber": "094569667",
+            "AccountNumber": "YLKH95475978763663",
+            "Branch": "Patriciamouth"
+        },
+        "Transaction": {
+            "Amount": 67324.0,
+            "Currency": "USD",
+            "Type": "Wire Credit",
+            "Status": "Failed",
+            "Fee": 51.35,
+            "Notes": "Suffer alone later cell study east thought.",
+            "AuditTrail": {
+                "CreatedBy": "Russell Dyer",
+                "Time": "1982-05-05T23:37:37",
+                "Channel": "App"
+            },
+            "Risk": {
+                "AMLScore": 0.7,
+                "KYCCheck": "Incomplete",
+                "FraudCheck": "Suspected"
+            }
+        }
+    },
+    {
+        "TransactionID": "71fe1260-4ade-401e-9510-9d8751f9ba97",
+        "Date": "2025-04-04",
+        "Business": {
+            "Name": "Roman, Bell and Cannon",
+            "TIN": "42-8045201",
+            "Category": "incentivize 24/365 markets",
+            "Segment": "SMB",
+            "Region": "Utah"
+        },
+        "BankDetails": {
+            "BankName": "Citibank",
+            "RoutingNumber": "085796630",
+            "AccountNumber": "HAGD81450971338432",
+            "Branch": "Beltranstad"
+        },
+        "Transaction": {
+            "Amount": 20423.83,
+            "Currency": "USD",
+            "Type": "Wire Credit",
+            "Status": "Failed",
+            "Fee": 39.85,
+            "Notes": "Positive best issue pass reality but.",
+            "AuditTrail": {
+                "CreatedBy": "Michael Valentine",
+                "Time": "2019-11-25T05:14:52",
+                "Channel": "App"
+            },
+            "Risk": {
+                "AMLScore": 0.78,
+                "KYCCheck": "Complete",
+                "FraudCheck": "Suspected"
+            }
+        }
+    },
+    {
+        "TransactionID": "8c5bf834-270c-44b8-9307-ae45bb5ed480",
+        "Date": "2025-04-02",
+        "Business": {
+            "Name": "Wilson-Ponce",
+            "TIN": "25-5459554",
+            "Category": "matrix out-of-the-box synergies",
+            "Segment": "Startup",
+            "Region": "Maryland"
+        },
+        "BankDetails": {
+            "BankName": "Wells Fargo",
+            "RoutingNumber": "068896162",
+            "AccountNumber": "YIAT08532091568634",
+            "Branch": "East Jeffrey"
+        },
+        "Transaction": {
+            "Amount": 15821.35,
+            "Currency": "USD",
+            "Type": "Wire Credit",
+            "Status": "Pending",
+            "Fee": 86.89,
+            "Notes": "Wrong remember her special away.",
+            "AuditTrail": {
+                "CreatedBy": "Diana Hill",
+                "Time": "2011-10-08T08:45:22",
+                "Channel": "Online"
+            },
+            "Risk": {
+                "AMLScore": 0.34,
+                "KYCCheck": "Incomplete",
+                "FraudCheck": "Clear"
+            }
+        }
+    }
+]
